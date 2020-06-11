@@ -4,4 +4,4 @@
 Header header
 
 # The list of grasp configurations.
-tams_grasp_msgs/GraspConfig[] grasps
+gpd_grasp_msgs/GraspConfig[] grasps
