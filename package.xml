@@ -5,7 +5,7 @@
   <description>The gpd_grasp_msgs package</description>
   <maintainer email="liang@informatik.uni-hamburg.de">liang</maintainer>
   <license>MIT</license>
-  <author >Hongzhuo Liang</author>
+  <author>Andreas ten Pas</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>message_generation</build_depend>
