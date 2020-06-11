@@ -4,9 +4,6 @@ add_compile_options(-std=c++11)
 find_package(catkin REQUIRED
     geometry_msgs
     sensor_msgs
-    eigen_conversions
-    tf
-    pcl_ros
     message_filters
     message_generation
     )
