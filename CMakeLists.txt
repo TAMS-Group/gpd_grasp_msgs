@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(tams_grasp_msgs)
+project(gpd_grasp_msgs)
 add_compile_options(-std=c++11)
 find_package(catkin REQUIRED
     geometry_msgs
